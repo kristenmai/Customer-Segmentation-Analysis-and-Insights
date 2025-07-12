@@ -19,6 +19,8 @@ The dataset includes the following features:
 - Dimensionality reduction: PCA for 2D visualization of clusters  
 - Insight generation and strategic recommendations based on clusters  
 
+<img width="676" height="587" alt="image" src="https://github.com/user-attachments/assets/c0936dd3-ee59-41b8-be11-3a264cc5313a" />
+
 ## Usage  
 - Run the Jupyter Notebook to reproduce analysis and visualizations  
 - Modify dataset path or parameters as needed  
